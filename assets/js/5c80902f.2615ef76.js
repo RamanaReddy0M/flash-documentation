@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflash_documentation=self.webpackChunkflash_documentation||[]).push([[6731],{6611:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/flash-documentation/blog/tags/hola","allTagsPath":"/flash-documentation/blog/tags","count":1}')}}]);

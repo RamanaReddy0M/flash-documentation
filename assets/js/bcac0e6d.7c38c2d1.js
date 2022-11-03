@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflash_documentation=self.webpackChunkflash_documentation||[]).push([[9568],{6983:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/flash-documentation/blog/tags/docusaurus","allTagsPath":"/flash-documentation/blog/tags","count":4}')}}]);
