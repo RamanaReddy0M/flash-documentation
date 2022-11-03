@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkflash_documentation=self.webpackChunkflash_documentation||[]).push([[8600],{9949:e=>{e.exports=JSON.parse('{"permalink":"/flash-documentation/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
